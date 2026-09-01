@@ -1,0 +1,158 @@
+[
+  {
+    "zhi": "자",
+    "hanja": "子",
+    "animal": "쥐",
+    "element": "수",
+    "yinyang": "양",
+    "axesOffset": {
+      "유연성": 1,
+      "안정성": -1
+    },
+    "traitPhrase": "예민하고 영리하며 순발력 있는",
+    "desc": "환경 변화에 빠르게 반응하고 눈치가 빠른"
+  },
+  {
+    "zhi": "축",
+    "hanja": "丑",
+    "animal": "소",
+    "element": "토",
+    "yinyang": "음",
+    "axesOffset": {
+      "안정성": 1,
+      "확장성": -1
+    },
+    "traitPhrase": "성실하고 묵묵하게 참아내는",
+    "desc": "드러내지 않고 꾸준히 자기 일을 해내는"
+  },
+  {
+    "zhi": "인",
+    "hanja": "寅",
+    "animal": "호랑이",
+    "element": "목",
+    "yinyang": "양",
+    "axesOffset": {
+      "확장성": 1,
+      "안정성": -1
+    },
+    "traitPhrase": "진취적이고 리더십 있는",
+    "desc": "거침없이 앞장서서 나아가는"
+  },
+  {
+    "zhi": "묘",
+    "hanja": "卯",
+    "animal": "토끼",
+    "element": "목",
+    "yinyang": "음",
+    "axesOffset": {
+      "유연성": 1,
+      "강렬성": -1
+    },
+    "traitPhrase": "온화하고 섬세하며 배려심 많은",
+    "desc": "부드럽고 상냥하게 주변을 챙기는"
+  },
+  {
+    "zhi": "진",
+    "hanja": "辰",
+    "animal": "용",
+    "element": "토",
+    "yinyang": "양",
+    "axesOffset": {
+      "강렬성": 1,
+      "안정성": -1
+    },
+    "traitPhrase": "웅대하고 역동적인",
+    "desc": "큰 그림을 그리며 역동적으로 움직이는"
+  },
+  {
+    "zhi": "사",
+    "hanja": "巳",
+    "animal": "뱀",
+    "element": "화",
+    "yinyang": "음",
+    "axesOffset": {
+      "정제감": 1,
+      "확장성": -1
+    },
+    "traitPhrase": "치밀하고 통찰력 있는",
+    "desc": "속으로 깊이 헤아리고 신중하게 판단하는"
+  },
+  {
+    "zhi": "오",
+    "hanja": "午",
+    "animal": "말",
+    "element": "화",
+    "yinyang": "양",
+    "axesOffset": {
+      "강렬성": 1,
+      "정제감": -1
+    },
+    "traitPhrase": "활동적이고 즉흥적인",
+    "desc": "열정적이고 즉흥적으로 움직이는"
+  },
+  {
+    "zhi": "미",
+    "hanja": "未",
+    "animal": "양",
+    "element": "토",
+    "yinyang": "음",
+    "axesOffset": {
+      "정제감": 1,
+      "강렬성": -1
+    },
+    "traitPhrase": "온순하고 예술적 감성이 풍부한",
+    "desc": "부드럽고 감성적인 여유를 즐기는"
+  },
+  {
+    "zhi": "신",
+    "hanja": "申",
+    "animal": "원숭이",
+    "element": "금",
+    "yinyang": "양",
+    "axesOffset": {
+      "확장성": 1,
+      "정제감": -1
+    },
+    "traitPhrase": "재치있고 사교적인",
+    "desc": "순발력 있고 사람들과 잘 어울리는"
+  },
+  {
+    "zhi": "유",
+    "hanja": "酉",
+    "animal": "닭",
+    "element": "금",
+    "yinyang": "음",
+    "axesOffset": {
+      "정제감": 1,
+      "유연성": -1
+    },
+    "traitPhrase": "꼼꼼하고 완벽주의적인",
+    "desc": "작은 디테일까지 야무지게 챙기는"
+  },
+  {
+    "zhi": "술",
+    "hanja": "戌",
+    "animal": "개",
+    "element": "토",
+    "yinyang": "양",
+    "axesOffset": {
+      "안정성": 1,
+      "유연성": -1
+    },
+    "traitPhrase": "의리있고 우직한",
+    "desc": "한번 정한 믿음은 끝까지 지키는"
+  },
+  {
+    "zhi": "해",
+    "hanja": "亥",
+    "animal": "돼지",
+    "element": "수",
+    "yinyang": "음",
+    "axesOffset": {
+      "유연성": 1,
+      "정제감": -1
+    },
+    "traitPhrase": "포용력 있고 낙천적인",
+    "desc": "너그럽고 느긋하게 품어주는"
+  }
+]
